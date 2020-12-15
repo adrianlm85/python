@@ -39,7 +39,7 @@
 .v28_9 {
   width: 124px;
   height: 114px;
-  background: rgba(255,255,255,1);
+  background: rgba(180,231,247,1);
   opacity: 1;
   position: absolute;
   top: 49px;
@@ -49,7 +49,7 @@
 .v28_10 {
   width: 124px;
   height: 114px;
-  background: url("../Downloads/example (3)/images/v28_10.png");
+  background: rgba(180,231,247,1);
   opacity: 1;
   position: relative;
   top: 0px;
@@ -89,7 +89,7 @@
 .v29_7 {
   width: 77px;
   height: 74px;
-  background: url("../Downloads/example (3)/images/v29_7.png");
+  background: rgba(180,231,247,1);
   opacity: 1;
   position: relative;
   top: 0px;
@@ -98,7 +98,7 @@
 .v29_8 {
   width: 64px;
   height: 61px;
-  background: rgba(255,255,255,1);
+  background: rgba(180,231,247,1);
   opacity: 1;
   position: absolute;
   top: 6px;
@@ -126,7 +126,7 @@
 .v48_15 {
   width: 108px;
   height: 101px;
-  background: rgba(180,231,247,1);
+  background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   top: 10px;
